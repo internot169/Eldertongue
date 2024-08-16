@@ -1,0 +1,47 @@
+{
+    "lesson_name": "Sample Flashcards Lesson",
+    "lesson_type": "flashcards",
+    "lesson_description": "This is a sample lesson to demonstrate data for Flashcards.",
+    "lesson_data": [
+        {
+            "source": "Hello",
+            "target": "Hola"
+        },
+        {
+            "source": "Goodbye",
+            "target": "Adiós"
+        },
+        {
+            "source": "Please",
+            "target": "Por favor"
+        },
+        {
+            "source": "Thank you",
+            "target": "Gracias"
+        },
+        {
+            "source": "You're welcome",
+            "target": "De nada"
+        },
+        {
+            "source": "Yes",
+            "target": "Sí"
+        },
+        {
+            "source": "No",
+            "target": "No"
+        },
+        {
+            "source": "Excuse me",
+            "target": "Perdón"
+        },
+        {
+            "source": "I'm sorry",
+            "target": "Lo siento"
+        },
+        {
+            "source": "I don't understand",
+            "target": "No entiendo"
+        }
+    ]
+}

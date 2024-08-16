@@ -1,6 +1,9 @@
 # Data
 JSON files with topics
 - Lessons automatically draw from the topics
+Flashcards
+Drawing
+Writing
 
 # Lesson types
 
@@ -10,19 +13,17 @@ Character practice (If the language has other characters):
 
 Reading
 - Flashcards for meaning of words/phrases (both ways)
-- Translate sentences to English
 - See Daily Media
 
 Writing
 - Spelling out words using characters
 - Translate sentence from English using words
-- Translate sentence from English using characters
+- Translate sentences to English
 - Daily Essay in the Language
 
 Listening
 - Transcribing sentences by words
-- Transcribing sentences by characters
-- Listening comprehension based on the speaker
+- Listening comprehension
 
 Speaking
 - Reading a sentence out loud
